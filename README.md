@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Hey, I'm James, a principal engineer at @matchesfashion.
+
+
+
+
 <!--
 **jamesbrooks94/jamesbrooks94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
