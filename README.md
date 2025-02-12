@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey, I'm James, Principal Engineer at @Mindera.
+Hey, I'm James, Principal Engineer at @checkatrade.
 
 
 
